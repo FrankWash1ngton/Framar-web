@@ -1,0 +1,9 @@
+a {
+    text-decoration: none;
+  }
+  
+  /* Style the link as you like */
+  a {
+    color: white; /* Change the link color to blue */
+    font-weight: bold; /* Add some styling to make it stand out */
+  }
